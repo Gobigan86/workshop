@@ -1,0 +1,47 @@
+#school{
+    color:rebeccapurple;
+    padding: 10px;
+}
+
+.class{
+    padding-top:30px;
+    background-color: aqua;
+    margin-top: 96px;
+    
+}
+
+form{
+    color:blue;
+    background-color: aqu;
+    display: inline-block;
+    padding: 100px;
+}
+
+.submit:hover{
+    color:brown;
+    background-color: blue;
+    border-radius: 40px;
+    box-shadow: 10px,10px,15px,darkred;
+
+}
+.box {
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: lightblue;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  }
+
+  .divbar{
+    color:red;
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+
+.divbar p{
+    background-color: aqua;
+}
